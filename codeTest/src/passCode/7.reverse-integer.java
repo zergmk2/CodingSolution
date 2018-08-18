@@ -45,7 +45,7 @@ import java.util.ArrayList;
  */
 class Solution {
     private int[] validRange = {-231, 230};
-    public int reverse(int x) {
+    public int reverse1(int x) {
         String number = Integer.toString(x);
 
         // out of the integer range
@@ -83,6 +83,24 @@ class Solution {
         {
             return 0;
         }
+    }
+
+
+    public int reverse(int x) {
+        int result = 0;
+
+        while (x != 0)
+        {
+            int newresult = result * 10 + x % 10;
+            if ((newresult - (x % 10)) / 10 != result)
+            {
+                return 0;
+            }
+            result = newresult;
+            x = x / 10;
+        }
+
+        return result;
     }
 
     public static void main(String[] args)
