@@ -16,14 +16,14 @@ public class SolutionTest {
                 .addAsManifestResource(EmptyAsset.INSTANCE, "beans.xml");
     }
 
-    @org.junit.Test
-    public void mergeTwoLists() {
-        ListNode l1 = ListNode.deserialize("[1, 2, 4]");
-        ListNode l2 = ListNode.deserialize("[1, 3, 4]");
-
-        Solution s = new Solution();
-        ListNode l = s.mergeTwoLists(l1, l2);
-
-    }
+//    @org.junit.Test
+//    public void mergeTwoLists() {
+//        ListNode l1 = ListNode.deserialize("[1, 2, 4]");
+//        ListNode l2 = ListNode.deserialize("[1, 3, 4]");
+//
+//        Solution s = new Solution();
+//        ListNode l = s.mergeTwoLists(l1, l2);
+//
+//    }
 
 }
