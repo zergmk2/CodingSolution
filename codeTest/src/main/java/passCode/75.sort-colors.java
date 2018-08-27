@@ -38,6 +38,46 @@
  */
 class Solution {
     public void sortColors(int[] nums) {
-        
+        if (nums == null || nums.length == 1)
+        {
+            return;
+        }
+        int l = 0;
+        int r = nums.length - 1;
+
+        while (l < r)
+        {
+            if(nums[l] == 2)
+            {
+                swip(nums, l, r);
+                r--;
+            }
+            else
+            {
+                l++;
+            }
+        }
+
+        l = 0;
+        while (l < r)
+        {
+            if(nums[r] == 0)
+            {
+                swip(nums, r, l);
+                l++;
+            }
+            else
+            {
+                r--;
+            }
+        }
+
+    }
+
+    private void swip(int[] nums, int s, int t)
+    {
+        int tmp = nums[t];
+        nums[t] = nums[s];
+        nums[s] = tmp;
     }
 }
