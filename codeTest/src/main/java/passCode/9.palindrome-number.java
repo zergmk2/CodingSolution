@@ -48,25 +48,36 @@ class Solution {
         {
             return false;
         }
-//
-//        int length = 0;
-//        int tmp = x;
-//        while(tmp > 0)
-//        {
-//            tmp >> 1;
-//            length++;
-//        }
+        int length = 0;
+        int tmp = x;
+        while(tmp > 0)
+        {
+            tmp /= 10;
+            length++;
+        }
 
-//        for (int i = 0; i < length/2; i++)
-//        {
-//            if ( x >> i  )
-//        }
+        for (int i = 0; i < length / 2; i++)
+        {
+            int l = division(x, length - i);
+            int r = division(x, i + 1);
+            if (l != r)
+                return false;
+        }
+        return true;
+    }
+
+    private int division(int num, int k)
+    {
+        for (int i = 1; i < k ; i++)
+        {
+            num /= 10;
+        }
+        return num % 10;
     }
 
     public static void main(String args[])
     {
-        int x = 123;
-        int a = x >> 1;
-        System.out.println(a);
+        Solution s  =  new Solution();
+        System.out.println(s.isPalindrome(1001));
     }
 }
