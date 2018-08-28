@@ -9,6 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98ccec52-8d1d-423b-9a2f-bfa91583bacd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codeTest/codeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/codeTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codeTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/pom.xml" afterDir="false" />
@@ -24,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/code_test$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1535045597713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/code_test$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1535456222176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="ErrorTreeViewConfiguration">
     <option name="hideWarnings" value="true" />
@@ -75,14 +76,56 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-329563201">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1432" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1432" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/75.sort-colors.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/9.palindrome-number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            <state relative-caret-position="354">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/13.roman-to-integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -110,7 +153,6 @@
         <option value="$PROJECT_DIR$/codeTest/src/459.repeated-substring-pattern.java" />
         <option value="$PROJECT_DIR$/codeTest/src/532.k-diff-pairs-in-an-array.java" />
         <option value="$PROJECT_DIR$/codeTest/src/DataStructure/MyCircularQueue.java" />
-        <option value="$PROJECT_DIR$/codeTest/pom.xml" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/DataStructure/LinkNode.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/DataStructure/ListNode.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/21.merge-two-sorted-lists.java" />
@@ -128,6 +170,10 @@
         <option value="$PROJECT_DIR$/codeTest/src/main/java/215.kth-largest-element-in-an-array.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/347.top-k-frequent-elements.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/451.sort-characters-by-frequency.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/452.minimum-number-of-arrows-to-burst-balloons.java" />
+        <option value="$PROJECT_DIR$/codeTest/pom.xml" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/406.queue-reconstruction-by-height.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/9.palindrome-number.java" />
       </list>
     </option>
   </component>
@@ -144,20 +190,17 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-97" />
-    <option name="y" value="80" />
-    <option name="width" value="1843" />
-    <option name="height" value="810" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,12 +241,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="75.sort-colors.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="13.roman-to-integer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +264,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -270,12 +315,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Arquillian JUnit.JBoss AS Embedded 6.x: SolutionTest.mergeTwoLists" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Arquillian JUnit.JBoss AS Embedded 6.x: SolutionTest.mergeTwoLists" />
       </list>
     </recent_temporary>
   </component>
@@ -311,9 +354,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17266187" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17525035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,17 +366,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983193" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32864866" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39891893" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32831737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39808482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4994664" visible="true" weight="0.32864866" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4994664" visible="true" weight="0.32831737" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053364" side_tool="true" weight="0.31932774" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32983193" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32756758" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3269494" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32983193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49820143" weight="0.32982844" />
@@ -343,7 +387,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50179857" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50179857" side_tool="true" weight="0.3297568" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,6 +423,12 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codeTest/src/main/java/passCode/9.palindrome-number.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -401,13 +451,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="1969" column="53" selection-start-line="1969" selection-start-column="53" selection-end-line="1969" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/code_test.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -448,28 +492,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/200.number-of-islands.java" />
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10165">
-          <caret line="568" selection-start-line="568" selection-end-line="568" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Integer.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/NumberFormatException.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/617.merge-two-binary-trees.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/test/java/SolutionTest.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/DataStructure/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -490,16 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
-          <folding>
-            <element signature="e#1714#1715#0" expanded="true" />
-            <element signature="e#1745#1746#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-            <element signature="e#1871#1872#0" expanded="true" />
-            <element signature="e#1910#1911#0" expanded="true" />
-            <element signature="e#1947#1948#0" expanded="true" />
-            <element signature="e#1986#1987#0" expanded="true" />
-            <element signature="e#2030#2031#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -536,47 +552,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/680.valid-palindrome-ii.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/524.longest-word-in-dictionary-through-deleting.java" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/215.kth-largest-element-in-an-array.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/215.kth-largest-element-in-an-array.java" />
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/347.top-k-frequent-elements.java" />
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/451.sort-characters-by-frequency.java" />
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/75.sort-colors.java" />
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/452.minimum-number-of-arrows-to-burst-balloons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        <state relative-caret-position="174">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="584" column="29" selection-start-line="584" selection-start-column="29" selection-end-line="584" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/406.queue-reconstruction-by-height.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/9.palindrome-number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codeTest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="240">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/347.top-k-frequent-elements.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/13.roman-to-integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/451.sort-characters-by-frequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/75.sort-colors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        <state relative-caret-position="334">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -632,7 +656,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Java-1.8</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -645,6 +669,19 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>code_test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
