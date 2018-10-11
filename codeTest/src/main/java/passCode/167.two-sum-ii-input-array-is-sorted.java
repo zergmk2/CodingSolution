@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+import static java.util.Arrays.binarySearch;
+
 /*
  * [167] Two Sum II - Input array is sorted
  *
@@ -41,23 +43,42 @@ class Solution {
         }
 
 //        Arrays.sort(numbers);
-
+        int[] sortedArray = Arrays.copyOf(numbers, numbers.length);
         int l = 0;
-        int r = numbers.length - 1;
+        int r = sortedArray.length - 1;
 
         while (l < r)
         {
-            if ((numbers[l] + numbers[r]) < target)
+            if ((sortedArray[l] + sortedArray[r]) < target)
             {
                 l++;
             }
-            else if ((numbers[l] + numbers[r]) > target)
+            else if ((sortedArray[l] + sortedArray[r]) > target)
             {
                 r--;
             }
-            else if ((numbers[l] + numbers[r]) == target)
+            else if ((sortedArray[l] + sortedArray[r]) == target)
             {
-                return new int[] {l+1, r+1};
+                int left = 0;
+                int right = 0;
+                for (int i = 0; i < numbers.length; i++)
+                {
+                    if (sortedArray[l] == numbers[i])
+                    {
+                        left = i;
+                        break;
+                    }
+                }
+
+                for (int i = numbers.length - 1; i >= 0; i--)
+                {
+                    if (sortedArray[r] == numbers[i])
+                    {
+                        right = i;
+                        break;
+                    }
+                }
+                return new int[] {left, right};
             }
         }
         return new int[] {0, 0};
