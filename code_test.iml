@@ -3,7 +3,17 @@
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/bin" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/codeTest/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codeTest/src/main" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/interview_test" />
+      <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/passCode" />
+      <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/passCode/DP" />
+      <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/passCode/graph" />
+      <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/passCode/misc" />
+      <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/passCode/search" />
+      <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/passCode/tree" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
   </component>
