@@ -79,9 +79,11 @@ class Solution {
         List<String> list = new ArrayList<>();
         for (int i = 0; i < hoursList.size(); i++)
         {
+            if (hoursList.get(i) > 11)
+                continue;
             for (int j = 0; j < minutesList.size(); j++)
             {
-                if (hoursList.get(i) > 11 || minutesList.get(j) > 59)
+                if (minutesList.get(j) > 59)
                 {
                     continue;
                 }
