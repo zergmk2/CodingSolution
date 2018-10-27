@@ -3,8 +3,76 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/codeTest/src/main/java/interview_test/Solution.java" line="173" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ccec52-8d1d-423b-9a2f-bfa91583bacd" name="Default Changelist" comment="" />
+    <list default="true" id="98ccec52-8d1d-423b-9a2f-bfa91583bacd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/BackTracking/39.combination-sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/39.combination-sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/BackTracking/401.binary-watch.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/401.binary-watch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/BackTracking/78.subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/78.subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/BackTracking/784.letter-case-permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/784.letter-case-permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/BackTracking/90.subsets-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/90.subsets-ii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/DP/198.house-robber.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/198.house-robber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/DP/70.climbing-stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/70.climbing-stairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/graph/200.number-of-islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/graph/200.number-of-islands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/121.best-time-to-buy-and-sell-stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/121.best-time-to-buy-and-sell-stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/122.best-time-to-buy-and-sell-stock-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/122.best-time-to-buy-and-sell-stock-ii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/13.roman-to-integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/13.roman-to-integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/136.single-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/136.single-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/14.longest-common-prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/14.longest-common-prefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/141.linked-list-cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/141.linked-list-cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/155.min-stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/155.min-stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/160.intersection-of-two-linked-lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/160.intersection-of-two-linked-lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/167.two-sum-ii-input-array-is-sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/167.two-sum-ii-input-array-is-sorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/189.rotate-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/189.rotate-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/200.number-of-islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/200.number-of-islands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/206.reverse-linked-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/206.reverse-linked-list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/21.merge-two-sorted-lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/21.merge-two-sorted-lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/215.kth-largest-element-in-an-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/215.kth-largest-element-in-an-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/217.contains-duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/217.contains-duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/26.remove-duplicates-from-sorted-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/26.remove-duplicates-from-sorted-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/283.move-zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/283.move-zeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/345.reverse-vowels-of-a-string.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/345.reverse-vowels-of-a-string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/347.top-k-frequent-elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/347.top-k-frequent-elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/349.intersection-of-two-arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/349.intersection-of-two-arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/350.intersection-of-two-arrays-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/350.intersection-of-two-arrays-ii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/36.valid-sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/36.valid-sudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/406.queue-reconstruction-by-height.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/406.queue-reconstruction-by-height.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/435.non-overlapping-intervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/435.non-overlapping-intervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/451.sort-characters-by-frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/451.sort-characters-by-frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/452.minimum-number-of-arrows-to-burst-balloons.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/452.minimum-number-of-arrows-to-burst-balloons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/455.assign-cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/455.assign-cookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/459.repeated-substring-pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/459.repeated-substring-pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/5.longest-palindromic-substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/5.longest-palindromic-substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/524.longest-word-in-dictionary-through-deleting.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/524.longest-word-in-dictionary-through-deleting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/53.maximum-subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/53.maximum-subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/532.k-diff-pairs-in-an-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/532.k-diff-pairs-in-an-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/6.zigzag-conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/6.zigzag-conversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/617.merge-two-binary-trees.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/617.merge-two-binary-trees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/633.sum-of-square-numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/633.sum-of-square-numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/66.plus-one.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/66.plus-one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/680.valid-palindrome-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/680.valid-palindrome-ii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/7.reverse-integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/7.reverse-integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/707.design-linked-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/707.design-linked-list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/75.sort-colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/75.sort-colors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/83.remove-duplicates-from-sorted-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/83.remove-duplicates-from-sorted-list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/88.merge-sorted-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/88.merge-sorted-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/9.palindrome-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/9.palindrome-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/search/278.first-bad-version.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/search/278.first-bad-version.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/101.symmetric-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/101.symmetric-tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/102.binary-tree-level-order-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/102.binary-tree-level-order-traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/103.binary-tree-zigzag-level-order-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/103.binary-tree-zigzag-level-order-traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/104.maximum-depth-of-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/104.maximum-depth-of-binary-tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/107.binary-tree-level-order-traversal-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/107.binary-tree-level-order-traversal-ii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/108.convert-sorted-array-to-binary-search-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/108.convert-sorted-array-to-binary-search-tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/111.minimum-depth-of-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/111.minimum-depth-of-binary-tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/230.kth-smallest-element-in-a-bst.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/230.kth-smallest-element-in-a-bst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/94.binary-tree-inorder-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/94.binary-tree-inorder-traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/98.validate-binary-search-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/98.validate-binary-search-tree.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/codeTest/target/" />
@@ -111,58 +179,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="27" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="27" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="967" />
+          <entry key="java" value="5625" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="967" />
+          <entry key="JAVA" value="5625" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/116.populating-next-right-pointers-in-each-node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-816">
-              <folding>
-                <element signature="e#0#1485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/230.kth-smallest-element-in-a-bst.java">
+        <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/39.combination-sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#1666#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-119">
+              <caret line="85" column="85" selection-start-line="85" selection-start-column="85" selection-end-line="85" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -172,8 +217,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -214,6 +259,16 @@
         <option value="$PROJECT_DIR$/codeTest/src/main/java/349.intersection-of-two-arrays.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/105.construct-binary-tree-from-preorder-and-inorder-traversal.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/230.kth-smallest-element-in-a-bst.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/111.minimum-depth-of-binary-tree.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/107.binary-tree-level-order-traversal-ii.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/Solution.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/78.subsets.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/90.subsets-ii.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/401.binary-watch.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/passCode/BackTracking/401.binary-watch.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/784.letter-case-permutation.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/39.combination-sum.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/39.combination-sum.java" />
       </list>
     </option>
   </component>
@@ -231,9 +286,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="321" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -275,21 +331,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Leetcode_prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_prep" type="462c0819:PsiDirectoryNode" />
-              <item name="codeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="230.kth-smallest-element-in-a-bst.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Leetcode_prep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_prep" type="462c0819:PsiDirectoryNode" />
-              <item name="codeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -303,7 +344,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540312084011" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540640331013" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -320,10 +361,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\SourceCode\Leetcode_prep\codeTest\src\main\java\LeetCode" />
+      <recent name="G:\SourceCode\Leetcode_prep\codeTest\src\main\java\passCode\BackTracking" />
       <recent name="G:\SourceCode\Leetcode_prep\codeTest\src\main\java" />
+      <recent name="G:\SourceCode\Leetcode_prep\codeTest\src\main\java\interview_test" />
       <recent name="G:\SourceCode\Leetcode_prep\codeTest\src\main\java\passCode\tree" />
-      <recent name="G:\SourceCode\Leetcode_prep\codeTest\src\main\java\passCode" />
-      <recent name="$PROJECT_DIR$/codeTest/src/main/java/passCode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -370,12 +412,12 @@
       <workItem from="1535119682485" duration="8359000" />
       <workItem from="1539008945059" duration="787000" />
       <workItem from="1540308152360" duration="1505000" />
-      <workItem from="1540309768338" duration="2308000" />
+      <workItem from="1540309768338" duration="25879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82495000" />
+    <option name="totallyTimeSpent" value="106066000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,7 +430,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28837952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -407,7 +448,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4994664" weight="0.2462039" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053364" side_tool="true" weight="0.31932774" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32983193" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3308026" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32983193" />
@@ -463,18 +504,43 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java</url>
-          <line>99</line>
+          <url>file://$PROJECT_DIR$/codeTest/src/main/java/interview_test/Solution.java</url>
+          <line>173</line>
           <properties />
-          <option name="timeStamp" value="23" />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/401.binary-watch.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/784.letter-case-permutation.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/784.letter-case-permutation.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/39.combination-sum.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/39.combination-sum.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="prehead" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -483,6 +549,16 @@
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
+        <expression-string>'A'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>prehead</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -490,22 +566,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/code_test.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/node_modules/leetcode-cli/lib/plugins/cookie.chrome.js" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/7.reverse-integer.java" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/155.min-stack.java" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/459.repeated-substring-pattern.java" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/459.repeated-substring-pattern.java" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/7.reverse-integer.java" />
-    <entry file="file://$PROJECT_DIR$/codeTest/codeTest.iml" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/532.k-diff-pairs-in-an-array.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/200.number-of-islands.java" />
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Integer.java" />
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/NumberFormatException.java" />
@@ -547,14 +607,14 @@
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/13.roman-to-integer.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/9.palindrome-number.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/349.intersection-of-two-arrays.java" />
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/459.repeated-substring-pattern.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/459.repeated-substring-pattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/misc/13.roman-to-integer.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/13.roman-to-integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="132" column="51" lean-forward="true" selection-start-line="132" selection-start-column="51" selection-end-line="132" selection-end-column="51" />
@@ -571,18 +631,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1847" column="70" selection-start-line="1847" selection-start-column="70" selection-end-line="1847" selection-end-column="70" />
-          <folding>
-            <element signature="e#88329#88330#0" expanded="true" />
-            <element signature="e#88386#88387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
@@ -598,13 +647,330 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/230.kth-smallest-element-in-a-bst.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/111.minimum-depth-of-binary-tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#1710#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/230.kth-smallest-element-in-a-bst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
           <folding>
             <element signature="e#0#1666#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/107.binary-tree-level-order-traversal-ii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/108.convert-sorted-array-to-binary-search-tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#1655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/DataStructure/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="1866" column="6" selection-start-line="1866" selection-start-column="6" selection-end-line="1866" selection-end-column="6" />
+          <folding>
+            <element signature="e#88329#88330#0" expanded="true" />
+            <element signature="e#88386#88387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="655" column="18" lean-forward="true" selection-start-line="655" selection-start-column="18" selection-end-line="655" selection-end-column="18" />
+          <folding>
+            <element signature="docComment;class#String#0" />
+            <element signature="e#3700#3747#0" />
+            <element signature="e#3785#3826#0" />
+            <element signature="e#3870#3933#0" />
+            <element signature="e#4011#4334#0" />
+            <element signature="e#4444#4656#0" />
+            <element signature="e#4721#5149#0" />
+            <element signature="e#4721#5264#0" />
+            <element signature="e#5270#5654#0" />
+            <element signature="e#5757#6587#0" />
+            <element signature="e#5757#7264#0" />
+            <element signature="e#7270#8368#0" />
+            <element signature="e#7270#9771#0" />
+            <element signature="e#9777#11248#0" />
+            <element signature="e#9777#11780#0" />
+            <element signature="e#11786#13037#0" />
+            <element signature="e#13157#13700#0" />
+            <element signature="e#13706#14940#0" />
+            <element signature="e#13706#15286#0" />
+            <element signature="e#15292#16497#0" />
+            <element signature="e#15292#16781#0" />
+            <element signature="e#16787#17713#0" />
+            <element signature="e#16787#17872#0" />
+            <element signature="e#17878#18731#0" />
+            <element signature="e#18841#19856#0" />
+            <element signature="e#18841#20029#0" />
+            <element signature="e#20035#20694#0" />
+            <element signature="e#20778#21132#0" />
+            <element signature="e#20778#21296#0" />
+            <element signature="e#21302#21919#0" />
+            <element signature="e#22048#22472#0" />
+            <element signature="e#22478#22761#0" />
+            <element signature="e#22828#23042#0" />
+            <element signature="e#23119#23966#0" />
+            <element signature="e#23119#24163#0" />
+            <element signature="e#24169#25201#0" />
+            <element signature="e#24169#25443#0" />
+            <element signature="e#25449#26509#0" />
+            <element signature="e#25449#26767#0" />
+            <element signature="e#26773#27718#0" />
+            <element signature="e#26773#28016#0" />
+            <element signature="e#28022#28977#0" />
+            <element signature="e#28022#29274#0" />
+            <element signature="e#29280#29417#0" />
+            <element signature="e#29540#30955#0" />
+            <element signature="e#29540#31447#0" />
+            <element signature="e#31453#33315#0" />
+            <element signature="e#31453#33992#0" />
+            <element signature="e#33998#34722#0" />
+            <element signature="e#33998#34965#0" />
+            <element signature="e#34971#35670#0" />
+            <element signature="e#34971#35854#0" />
+            <element signature="e#35860#36363#0" />
+            <element signature="e#36466#37047#0" />
+            <element signature="e#36466#37687#0" />
+            <element signature="e#37693#38318#0" />
+            <element signature="e#38430#38804#0" />
+            <element signature="e#38810#39454#0" />
+            <element signature="e#38810#40338#0" />
+            <element signature="e#40344#41530#0" />
+            <element signature="e#40344#41823#0" />
+            <element signature="e#41829#44159#0" />
+            <element signature="e#41829#44635#0" />
+            <element signature="e#44641#45130#0" />
+            <element signature="e#45277#46503#0" />
+            <element signature="e#45542#46374#0" />
+            <element signature="e#46384#46425#0" />
+            <element signature="e#46384#46497#0" />
+            <element signature="e#46509#47490#0" />
+            <element signature="e#47609#49187#0" />
+            <element signature="e#47609#49808#0" />
+            <element signature="e#49814#52281#0" />
+            <element signature="e#49814#53851#0" />
+            <element signature="e#52980#53033#0" />
+            <element signature="e#53402#53466#0" />
+            <element signature="e#53857#54666#0" />
+            <element signature="e#53857#55165#0" />
+            <element signature="e#55171#55754#0" />
+            <element signature="e#55851#56393#0" />
+            <element signature="e#56521#57047#0" />
+            <element signature="e#56521#57332#0" />
+            <element signature="e#57338#58449#0" />
+            <element signature="e#58525#60435#0" />
+            <element signature="e#58525#61190#0" />
+            <element signature="e#60775#60829#0" />
+            <element signature="e#61196#61278#0" />
+            <element signature="e#61196#61799#0" />
+            <element signature="e#61805#62824#0" />
+            <element signature="e#62923#64678#0" />
+            <element signature="e#62923#65262#0" />
+            <element signature="e#64802#64856#0" />
+            <element signature="e#65268#65354#0" />
+            <element signature="e#65268#65862#0" />
+            <element signature="e#65868#66421#0" />
+            <element signature="e#66502#67249#0" />
+            <element signature="e#66502#67414#0" />
+            <element signature="e#67420#67925#0" />
+            <element signature="e#67420#68202#0" />
+            <element signature="e#68208#68819#0" />
+            <element signature="e#68208#70037#0" />
+            <element signature="e#70043#70709#0" />
+            <element signature="e#70809#71583#0" />
+            <element signature="e#70809#71756#0" />
+            <element signature="e#71762#72267#0" />
+            <element signature="e#71762#72552#0" />
+            <element signature="e#72558#73169#0" />
+            <element signature="e#72558#74562#0" />
+            <element signature="e#74568#75272#0" />
+            <element signature="e#74568#75659#0" />
+            <element signature="e#75665#76604#0" />
+            <element signature="e#75665#77163#0" />
+            <element signature="e#77169#78173#0" />
+            <element signature="e#78306#79225#0" />
+            <element signature="e#78306#79532#0" />
+            <element signature="e#79538#80862#0" />
+            <element signature="e#79538#81647#0" />
+            <element signature="e#81653#82574#0" />
+            <element signature="e#82674#82926#0" />
+            <element signature="e#83027#84633#0" />
+            <element signature="e#83027#84785#0" />
+            <element signature="e#84791#86398#0" />
+            <element signature="e#84791#86546#0" />
+            <element signature="e#86552#87086#0" />
+            <element signature="e#86552#87327#0" />
+            <element signature="e#87333#91079#0" />
+            <element signature="e#87333#93209#0" />
+            <element signature="e#92274#92285#0" />
+            <element signature="e#93215#94557#0" />
+            <element signature="e#94643#95535#0" />
+            <element signature="e#94643#95952#0" />
+            <element signature="e#95958#97446#0" />
+            <element signature="e#95958#97821#0" />
+            <element signature="e#97827#100104#0" />
+            <element signature="e#97827#103722#0" />
+            <element signature="e#103728#104642#0" />
+            <element signature="e#104737#106571#0" />
+            <element signature="e#104737#110235#0" />
+            <element signature="e#110241#111163#0" />
+            <element signature="e#111258#112802#0" />
+            <element signature="e#111258#113186#0" />
+            <element signature="e#113192#113313#0" />
+            <element signature="e#113377#113670#0" />
+            <element signature="e#113377#113923#0" />
+            <element signature="e#113929#115524#0" />
+            <element signature="e#113929#115659#0" />
+            <element signature="e#115665#117339#0" />
+            <element signature="e#115665#117485#0" />
+            <element signature="e#117491#117847#0" />
+            <element signature="e#117962#118358#0" />
+            <element signature="e#118451#119386#0" />
+            <element signature="e#119517#120085#0" />
+            <element signature="e#120220#120431#0" />
+            <element signature="e#120528#120844#0" />
+            <element signature="e#120939#121191#0" />
+            <element signature="e#120939#121306#0" />
+            <element signature="e#121312#121686#0" />
+            <element signature="e#121776#122142#0" />
+            <element signature="e#122230#122602#0" />
+            <element signature="e#122692#123071#0" />
+            <element signature="e#123163#124273#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/interview_test/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/78.subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="141" column="4" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="4" />
+          <folding>
+            <element signature="e#5644#5645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/90.subsets-ii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/401.binary-watch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1281#1289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/784.letter-case-permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="404" column="18" selection-start-line="404" selection-start-column="18" selection-end-line="404" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="6307" column="23" selection-start-line="6307" selection-start-column="23" selection-end-line="6307" selection-end-column="23" />
+          <folding>
+            <element signature="e#208783#209669#0" />
+            <element signature="e#225086#225087#0" expanded="true" />
+            <element signature="e#225135#225136#0" expanded="true" />
+            <element signature="e#227755#227756#0" expanded="true" />
+            <element signature="e#227804#227805#0" expanded="true" />
+            <element signature="e#228990#228991#0" expanded="true" />
+            <element signature="e#229063#229064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/39.combination-sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="85" column="85" selection-start-line="85" selection-start-column="85" selection-end-line="85" selection-end-column="85" />
         </state>
       </provider>
     </entry>
