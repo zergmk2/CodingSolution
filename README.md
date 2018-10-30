@@ -1,2 +1,3 @@
-# Leetcode_prep
-my leetcode solution repo in java
+# CodingSolution
+my solutions for leetcode, cracking the coding interview, geeksforgeeks  in java
+
