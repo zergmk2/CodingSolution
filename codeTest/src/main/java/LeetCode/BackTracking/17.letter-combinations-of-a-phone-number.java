@@ -4,9 +4,9 @@
  * https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
  *
  * algorithms
- * Medium (38.57%)
- * Total Accepted:    302.2K
- * Total Submissions: 778.3K
+ * Medium (37.79%)
+ * Total Accepted:    302.5K
+ * Total Submissions: 778.9K
  * Testcase Example:  '"23"'
  *
  * Given a string containing digits from 2-9 inclusive, return all possible
@@ -30,6 +30,10 @@
  * in any order you want.
  * 
  */
+<<<<<<< HEAD
+
+=======
+>>>>>>> 750825ec6d591c71ba33f8c8b2e7fe71cfe8509d
 import java.util.*;
 class Solution {
     private char[][] charSet = {
@@ -64,20 +68,17 @@ class Solution {
             return;
         }
 
-        //for (int i = target; i < digits.length(); i++)
-        //{
-            int number = digits.charAt(target) - '0';
-            //System.out.print("[ " + number);
-            for(int j = 0; j < charSet[number].length; j++)
-            {
-                //System.out.print("( " + charSet[number][j]);
-                sb.append(charSet[number][j]);
-                BackTracking(list, sb, digits, target + 1);
-                sb.deleteCharAt(sb.length() - 1);
-                //System.out.print(" )");
-            }
-            //System.out.println(" ]");
-        //}
+        int number = digits.charAt(target) - '0';
+        //System.out.print("[ " + number);
+        for(int j = 0; j < charSet[number].length; j++)
+        {
+            //System.out.print("( " + charSet[number][j]);
+            sb.append(charSet[number][j]);
+            BackTracking(list, sb, digits, target + 1);
+            sb.deleteCharAt(sb.length() - 1);
+            //System.out.print(" )");
+        }
+        //System.out.println(" ]");
     }
 
 }
