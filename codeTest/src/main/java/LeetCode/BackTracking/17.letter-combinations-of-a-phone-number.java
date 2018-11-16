@@ -30,7 +30,10 @@
  * in any order you want.
  * 
  */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 750825ec6d591c71ba33f8c8b2e7fe71cfe8509d
 import java.util.*;
 class Solution {
     private char[][] charSet = {
