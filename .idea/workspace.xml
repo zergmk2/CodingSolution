@@ -160,32 +160,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="705" />
+          <entry key="java" value="721" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="705" />
+          <entry key="JAVA" value="721" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/Tester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="135">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/303.range-sum-query-immutable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="60" column="10" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+            <state relative-caret-position="352">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -276,8 +276,8 @@
         <option value="$PROJECT_DIR$/codeTest/src/main/java/22.generate-parentheses.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/33.search-in-rotated-sorted-array.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/387.first-unique-character-in-a-string.java" />
-        <option value="$PROJECT_DIR$/codeTest/src/main/java/Tester.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/303.range-sum-query-immutable.java" />
+        <option value="$PROJECT_DIR$/codeTest/src/main/java/Tester.java" />
       </list>
     </option>
   </component>
@@ -340,21 +340,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="code_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_test" type="462c0819:PsiDirectoryNode" />
-              <item name="codeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_test" type="462c0819:PsiDirectoryNode" />
-              <item name="codeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -367,7 +352,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542813241071" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542818826514" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -439,12 +424,12 @@
       <workItem from="1541404602216" duration="892000" />
       <workItem from="1542209126280" duration="3789000" />
       <workItem from="1542727880212" duration="1458000" />
-      <workItem from="1542729368048" duration="5884000" />
+      <workItem from="1542729368048" duration="6516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118089000" />
+    <option name="totallyTimeSpent" value="118721000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,7 +444,7 @@
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21822916" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21822916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -469,7 +454,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983193" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39756593" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39756593" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
@@ -708,17 +693,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/Tester.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/303.range-sum-query-immutable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="352">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/303.range-sum-query-immutable.java">
+    <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="60" column="10" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>

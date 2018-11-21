@@ -49,61 +49,61 @@
  * 
  */
 
-class Solution {
-    class TrieNode
-    {
-        public static TrieNode root = new TrieNode();
-        TrieNode[] children;
-        // isEndOfWord is true if the node
-        // represents end of a word
-        boolean isEndOfWord;
-        public TrieNode
-        {
-            children = new TrieNode[ALPHABET_SIZE];
-
-            // isEndOfWord is true if the node represents 
-            // end of a word
-            boolean isEndOfWord;
-
-            TrieNode(){
-                isEndOfWord = false;
-                for (int i = 0; i < ALPHABET_SIZE; i++)
-                    children[i] = null;
-            }
-        };
-
-        public void insert(String key)
-        {
-            int level;
-            int length = key.length();
-            int index;
-
-            TrieNode pCrawl = root;
-
-            for (level = 0; level < length; level++)
-            {
-                index = key.charAt(level) - 'a';
-                if (pCrawl.children[index] == null)
-                    pCrawl.children[index] = new TrieNode();
-
-                pCrawl = pCrawl.children[index];
-            }
-
-            // mark last node as leaf
-            pCrawl.isEndOfWord = true;
-        }
-    }
-
-    TrieNode root;
-    public String shortestSuperstring(String[] A) {
-        if (A == null || A.length == 0)
-        {
-            return "";
-        }
-
-        for (String s : A)
-        {
-            Create 
-        }
-    }
-}
+//class Solution {
+//    class TrieNode
+//    {
+//        public static TrieNode root = new TrieNode();
+//        TrieNode[] children;
+//        // isEndOfWord is true if the node
+//        // represents end of a word
+//        boolean isEndOfWord;
+//        public TrieNode
+//        {
+//            children = new TrieNode[ALPHABET_SIZE];
+//
+//            // isEndOfWord is true if the node represents
+//            // end of a word
+//            boolean isEndOfWord;
+//
+//            TrieNode(){
+//                isEndOfWord = false;
+//                for (int i = 0; i < ALPHABET_SIZE; i++)
+//                    children[i] = null;
+//            }
+//        };
+//
+//        public void insert(String key)
+//        {
+//            int level;
+//            int length = key.length();
+//            int index;
+//
+//            TrieNode pCrawl = root;
+//
+//            for (level = 0; level < length; level++)
+//            {
+//                index = key.charAt(level) - 'a';
+//                if (pCrawl.children[index] == null)
+//                    pCrawl.children[index] = new TrieNode();
+//
+//                pCrawl = pCrawl.children[index];
+//            }
+//
+//            // mark last node as leaf
+//            pCrawl.isEndOfWord = true;
+//        }
+//    }
+//
+//    TrieNode root;
+//    public String shortestSuperstring(String[] A) {
+//        if (A == null || A.length == 0)
+//        {
+//            return "";
+//        }
+//
+//        for (String s : A)
+//        {
+//            Create
+//        }
+//    }
+//}
