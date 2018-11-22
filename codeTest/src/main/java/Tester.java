@@ -1,3 +1,5 @@
+import DataStructure.ListNode;
+
 public class Tester {
     public static void main(String[] args) {
         System.out.println("===========");
@@ -7,10 +9,14 @@ public class Tester {
 //        n.sumRange(2,5);
 //        n.sumRange(0,5);
         Solution s = new Solution();
-        s.isAnagram("a", "b");
+        ListNode node = new ListNode(1);
+        ListNode root = node;
+        node.next = new ListNode(2);
+        node = node.next;
+        node.next = new ListNode(3);
+        node = node.next;
+        node.next = new ListNode(4);
 
-//        int[] nums = new int[] {3, 1};
-//        int a = s.("leetcode");
-//        System.out.println("===========" + a);
+        s.splitListToParts(root, 5);
     }
 }
