@@ -8,162 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98ccec52-8d1d-423b-9a2f-bfa91583bacd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codetest/CTCI/Tree_Graph/buildOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/codeTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/CTCI/Arrays and String/1.3 URLify.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/CTCI/Arrays and String/1.3 URLify.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/CTCI/Arrays and String/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/CTCI/Arrays and String/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/CTCI/CtCILibrary/LinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/CTCI/CtCILibrary/LinkedListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/CTCI/Linked List/2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/CTCI/Linked List/2.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/CTCI/Tree_Graph/buildOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/DataStructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/DataStructure/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/DataStructure/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/DataStructure/MyCircularQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/DataStructure/Tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/DataStructure/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/1.two-sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/1.two-sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/11.container-with-most-water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/11.container-with-most-water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/119.pascals-triangle-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/119.pascals-triangle-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/169.majority-element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/169.majority-element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/204.count-primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/204.count-primes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/242.valid-anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/242.valid-anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/387.first-unique-character-in-a-string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/387.first-unique-character-in-a-string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/438.find-all-anagrams-in-a-string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/438.find-all-anagrams-in-a-string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/448.find-all-numbers-disappeared-in-an-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/448.find-all-numbers-disappeared-in-an-array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/581.shortest-unsorted-continuous-subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/581.shortest-unsorted-continuous-subarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/645.set-mismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/645.set-mismatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/771.jewels-and-stones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/771.jewels-and-stones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/905.sort-array-by-parity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/905.sort-array-by-parity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/941.Valid_Mountain_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/941.Valid_Mountain_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/942.DI-String-Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/942.DI-String-Match.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Array/944.Delete-Columns-to-Make-Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Array/944.Delete-Columns-to-Make-Sorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BFS_DFS/113.path-sum-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BFS_DFS/113.path-sum-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BFS_DFS/429.n-ary-tree-level-order-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BFS_DFS/429.n-ary-tree-level-order-traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BFS_DFS/513.find-bottom-left-tree-value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BFS_DFS/513.find-bottom-left-tree-value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BFS_DFS/515.find-largest-value-in-each-tree-row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BFS_DFS/515.find-largest-value-in-each-tree-row.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BFS_DFS/559.maximum-depth-of-n-ary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BFS_DFS/559.maximum-depth-of-n-ary-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BFS_DFS/690.employee-importance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BFS_DFS/690.employee-importance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/17.letter-combinations-of-a-phone-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/17.letter-combinations-of-a-phone-number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/216.combination-sum-iii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/216.combination-sum-iii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/22.generate-parentheses.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/22.generate-parentheses.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/22.generate-parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/22.generate-parentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/39.combination-sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/39.combination-sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/40.combination-sum-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/40.combination-sum-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/401.binary-watch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/401.binary-watch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/46.permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/46.permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/47.permutations-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/47.permutations-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/77.combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/77.combinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/78.subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/78.subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/784.letter-case-permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/784.letter-case-permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BackTracking/90.subsets-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BackTracking/90.subsets-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/BitOperation/461.hamming-distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/BitOperation/461.hamming-distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/120.triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/120.triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/198.house-robber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/198.house-robber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/303.range-sum-query-immutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/303.range-sum-query-immutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/5.longest-palindromic-substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/5.longest-palindromic-substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/62.unique-paths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/62.unique-paths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/63.unique-paths-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/63.unique-paths-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/64.minimum-path-sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/64.minimum-path-sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/70.climbing-stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/70.climbing-stairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/746.min-cost-climbing-stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/746.min-cost-climbing-stairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/DP/91.decode-ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/DP/91.decode-ways.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/LinkedList/234.palindrome-linked-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/LinkedList/234.palindrome-linked-list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/LinkedList/725.split-linked-list-in-parts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/LinkedList/725.split-linked-list-in-parts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Search&amp;Sort/33.search-in-rotated-sorted-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Search&amp;Sort/33.search-in-rotated-sorted-array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/Stack/20.valid-parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/Stack/20.valid-parentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/divide_conquer/95.unique-binary-search-trees-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/divide_conquer/95.unique-binary-search-trees-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/graph/200.number-of-islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/graph/200.number-of-islands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/greedyMethod/659.split-array-into-consecutive-subsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/greedyMethod/659.split-array-into-consecutive-subsequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/121.best-time-to-buy-and-sell-stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/121.best-time-to-buy-and-sell-stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/122.best-time-to-buy-and-sell-stock-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/122.best-time-to-buy-and-sell-stock-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/13.roman-to-integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/13.roman-to-integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/136.single-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/136.single-number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/14.longest-common-prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/14.longest-common-prefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/141.linked-list-cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/141.linked-list-cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/155.min-stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/155.min-stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/160.intersection-of-two-linked-lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/160.intersection-of-two-linked-lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/167.two-sum-ii-input-array-is-sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/167.two-sum-ii-input-array-is-sorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/189.rotate-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/189.rotate-array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/200.number-of-islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/200.number-of-islands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/206.reverse-linked-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/206.reverse-linked-list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/21.merge-two-sorted-lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/21.merge-two-sorted-lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/215.kth-largest-element-in-an-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/215.kth-largest-element-in-an-array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/217.contains-duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/217.contains-duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/26.remove-duplicates-from-sorted-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/26.remove-duplicates-from-sorted-array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/283.move-zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/283.move-zeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/345.reverse-vowels-of-a-string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/345.reverse-vowels-of-a-string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/347.top-k-frequent-elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/347.top-k-frequent-elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/349.intersection-of-two-arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/349.intersection-of-two-arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/350.intersection-of-two-arrays-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/350.intersection-of-two-arrays-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/36.valid-sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/36.valid-sudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/406.queue-reconstruction-by-height.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/406.queue-reconstruction-by-height.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/435.non-overlapping-intervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/435.non-overlapping-intervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/451.sort-characters-by-frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/451.sort-characters-by-frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/452.minimum-number-of-arrows-to-burst-balloons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/452.minimum-number-of-arrows-to-burst-balloons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/455.assign-cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/455.assign-cookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/459.repeated-substring-pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/459.repeated-substring-pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/5.longest-palindromic-substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/5.longest-palindromic-substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/524.longest-word-in-dictionary-through-deleting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/524.longest-word-in-dictionary-through-deleting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/53.maximum-subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/53.maximum-subarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/532.k-diff-pairs-in-an-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/532.k-diff-pairs-in-an-array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/6.zigzag-conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/6.zigzag-conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/617.merge-two-binary-trees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/617.merge-two-binary-trees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/633.sum-of-square-numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/633.sum-of-square-numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/66.plus-one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/66.plus-one.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/680.valid-palindrome-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/680.valid-palindrome-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/7.reverse-integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/7.reverse-integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/707.design-linked-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/707.design-linked-list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/75.sort-colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/75.sort-colors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/83.remove-duplicates-from-sorted-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/83.remove-duplicates-from-sorted-list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/88.merge-sorted-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/88.merge-sorted-array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/misc/9.palindrome-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/9.palindrome-number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/search/278.first-bad-version.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/search/278.first-bad-version.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/100.same-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/100.same-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/101.symmetric-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/101.symmetric-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/102.binary-tree-level-order-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/102.binary-tree-level-order-traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/103.binary-tree-zigzag-level-order-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/103.binary-tree-zigzag-level-order-traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/104.maximum-depth-of-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/104.maximum-depth-of-binary-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/107.binary-tree-level-order-traversal-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/107.binary-tree-level-order-traversal-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/108.convert-sorted-array-to-binary-search-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/108.convert-sorted-array-to-binary-search-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/111.minimum-depth-of-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/111.minimum-depth-of-binary-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/112.path-sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/112.path-sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/114.flatten-binary-tree-to-linked-list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/114.flatten-binary-tree-to-linked-list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/116.populating-next-right-pointers-in-each-node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/116.populating-next-right-pointers-in-each-node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/117.populating-next-right-pointers-in-each-node-ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/117.populating-next-right-pointers-in-each-node-ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/226.invert-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/226.invert-binary-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/230.kth-smallest-element-in-a-bst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/230.kth-smallest-element-in-a-bst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/235.lowest-common-ancestor-of-a-binary-search-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/235.lowest-common-ancestor-of-a-binary-search-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/437.path-sum-iii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/437.path-sum-iii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/538.convert-bst-to-greater-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/538.convert-bst-to-greater-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/543.diameter-of-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/543.diameter-of-binary-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/572.subtree-of-another-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/572.subtree-of-another-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/589.n-ary-tree-preorder-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/589.n-ary-tree-preorder-traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/606.construct-string-from-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/606.construct-string-from-binary-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/897.increasing-order-search-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/897.increasing-order-search-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/94.binary-tree-inorder-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/94.binary-tree-inorder-traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/LeetCode/tree/98.validate-binary-search-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/98.validate-binary-search-tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/commonAlgorithum/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/interview_test/48.rotate-image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/interview_test/48.rotate-image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/interview_test/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/interview_test/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/interview_test/top_most_frequent_words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/interview_test/top_most_frequent_words.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/java/unSolved/943.find-the-shortest-superstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/unSolved/943.find-the-shortest-superstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeTest/src/main/test/BinarySearchTreeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codetest/DataStructure/Tree/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codetest/DataStructure/Tree/BinarySearchTreeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -307,30 +153,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="23" />
+          <entry key="java" value="24" />
           <entry key="md" value="1" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="24" />
           <entry key="Markdown" value="1" />
           <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1584" />
+          <entry key="java" value="3433" />
           <entry key="txt" value="17" />
-          <entry key="xml" value="218" />
+          <entry key="xml" value="249" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1584" />
+          <entry key="JAVA" value="3433" />
           <entry key="PLAIN_TEXT" value="17" />
-          <entry key="XML" value="218" />
+          <entry key="XML" value="249" />
         </counts>
       </usages-collector>
     </session>
@@ -340,26 +186,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codetest/Tester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="mock:///code_test-effective-pom.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="161" column="15" selection-start-line="161" selection-start-column="15" selection-end-line="161" selection-end-column="15" />
+            <state relative-caret-position="232">
+              <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -405,20 +242,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/BinarySearchTree.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codetest/DataStructure/Tree/BinarySearchTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            <state relative-caret-position="435">
+              <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
               <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#1255#1256#0" expanded="true" />
-                <element signature="e#1287#1288#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -450,6 +280,7 @@
         <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -459,8 +290,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/codeTest/src/main/java/707.design-linked-list.java" />
-        <option value="$PROJECT_DIR$/codeTest/src/main/java/167.two-sum-ii-input-array-is-sorted.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/633.sum-of-square-numbers.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/345.reverse-vowels-of-a-string.java" />
         <option value="$PROJECT_DIR$/codeTest/src/main/java/680.valid-palindrome-ii.java" />
@@ -510,6 +339,8 @@
         <option value="$PROJECT_DIR$/src/main/java/codetest/Tester.java" />
         <option value="$PROJECT_DIR$/profiles.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codetest/DataStructure/Tree/BinarySearchTreeTest.java" />
       </list>
     </option>
   </component>
@@ -581,6 +412,21 @@
             </path>
             <path>
               <item name="code_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -595,7 +441,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543419287876" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543423621094" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -610,6 +456,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="codetest.DataStructure.Tree" />
       <recent name="test" />
       <recent name="" />
     </key>
@@ -636,10 +483,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.UnitTest">
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.delete">
     <configuration name="Solution" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="codetest.Tester" />
       <module name="code_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTreeTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codetest.DataStructure.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codetest.DataStructure.Tree" />
+      <option name="MAIN_CLASS_NAME" value="codetest.DataStructure.Tree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -672,9 +535,11 @@
     <list>
       <item itemvalue="Application.Solution" />
       <item itemvalue="Maven.UnitTest" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.delete" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTreeTest.delete" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -701,7 +566,7 @@
       <workItem from="1541404602216" duration="892000" />
       <workItem from="1542209126280" duration="3789000" />
       <workItem from="1542727880212" duration="1458000" />
-      <workItem from="1542729368048" duration="17513000" />
+      <workItem from="1542729368048" duration="21186000" />
     </task>
     <servers />
   </component>
@@ -709,9 +574,24 @@
     <history-entry file="All_Features_in__test - 2018.11.28 at 23h 01m 50s.xml">
       <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="BinarySearchTreeTest_delete - 2018.11.29 at 00h 41m 13s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTreeTest_delete - 2018.11.29 at 00h 42m 03s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTreeTest_delete - 2018.11.29 at 00h 42m 13s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTreeTest_delete - 2018.11.29 at 00h 42m 14s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTreeTest_delete - 2018.11.29 at 00h 46m 54s.xml">
+      <configuration name="BinarySearchTreeTest.delete" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129718000" />
+    <option name="totallyTimeSpent" value="133391000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -864,6 +744,12 @@
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codetest/DataStructure/Tree/BinarySearchTreeTest.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/codeTest/src/main/test/BinarySearchTreeTest.java</url>
           <line>6</line>
@@ -899,7 +785,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/codetest/LeetCode/misc/13.roman-to-integer.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/codetest/LeetCode/tree/105.construct-binary-tree-from-preorder-and-inorder-traversal.java" />
     <entry file="file://$PROJECT_DIR$/codeTest/src/main/java/passCode/116.populating-next-right-pointers-in-each-node.java" />
@@ -1054,23 +939,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#1255#1256#0" expanded="true" />
-            <element signature="e#1287#1288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codetest/73.set-matrix-zeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
@@ -1092,13 +960,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codetest/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/profiles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1116,8 +977,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        <state relative-caret-position="232">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codetest/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codetest/DataStructure/Tree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="149" column="34" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1207#1208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codetest/DataStructure/Tree/BinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
