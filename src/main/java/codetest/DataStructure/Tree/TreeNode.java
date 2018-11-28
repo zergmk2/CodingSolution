@@ -1,4 +1,4 @@
-package DataStructure.Tree;
+package codetest.DataStructure.Tree;
 
  public class TreeNode {
      public int val;

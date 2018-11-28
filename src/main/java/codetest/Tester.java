@@ -1,6 +1,5 @@
-import DataStructure.ListNode;
-import DataStructure.Tree.BinarySearchTree;
-import commonAlgorithum.sort.HeapSort;
+package codetest;
+import codetest.DataStructure.Tree.BinarySearchTree;
 
 public class Tester {
     public static void main(String[] args) {

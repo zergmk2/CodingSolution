@@ -1,4 +1,4 @@
-package DataStructure;
+package codetest.DataStructure;
 
 class MyCircularQueue {
 

@@ -1,11 +1,13 @@
-package test;
+package codetest.DataStructure.Tree;
 
-import DataStructure.Tree.BinarySearchTree;
+import org.junit.Test;
 
+import static org.junit.Assert.*;
 
-class BinarySearchTreeTest {
-    public void BinarySearchTreeUnitTest()
-    {
+public class BinarySearchTreeTest {
+
+    @Test
+    public void inorder() {
         BinarySearchTree tree = new BinarySearchTree(50);
         tree.insert(50);
         tree.insert(30);

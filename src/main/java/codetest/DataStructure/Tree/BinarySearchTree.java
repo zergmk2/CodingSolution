@@ -1,5 +1,4 @@
-package DataStructure.Tree;
-import java.util.*;
+package codetest.DataStructure.Tree;
 
 public class BinarySearchTree
 {

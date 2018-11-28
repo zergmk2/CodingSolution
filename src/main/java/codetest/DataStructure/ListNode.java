@@ -1,6 +1,4 @@
-package DataStructure;
-
-import javafx.scene.SubScene;
+package codetest.DataStructure;
 
 public class ListNode {
      private int val;
