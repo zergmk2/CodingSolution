@@ -34,6 +34,8 @@ public class QuickSort {
                 index++;
             }
         }
+        swap(array, index, r);
+        return index;
     }
 
     private void swap(int[] array, int a, int b)
@@ -41,6 +43,5 @@ public class QuickSort {
         int tmp = array[a];
         array[a] = array[b];
         array[b] = tmp;
-
     }
 }
