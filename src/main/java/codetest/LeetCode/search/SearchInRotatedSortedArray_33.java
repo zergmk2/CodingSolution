@@ -1,3 +1,5 @@
+package codetest.LeetCode.search;
+
 /*
  * [33] Search in Rotated Sorted Array
  *
@@ -35,7 +37,7 @@
  * Output: -1
  * 
  */
-class Solution {
+public class SearchInRotatedSortedArray_33 {
 
     public int search(int[] nums, int target) {
         if(nums==null||nums.length==0) return -1;
@@ -62,14 +64,6 @@ class Solution {
         else
             return -1;
     }
-//    public int search(int[] nums, int target)
-//    {
-//        if (nums == null || nums.length == 0)
-//        {
-//            return -1;
-//        }
-//        return binaryHelper(nums, 0, nums.length - 1, target);
-//    }
 
 
     public int binaryHelper(int nums[], int l, int r, int target)

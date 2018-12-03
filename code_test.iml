@@ -17,14 +17,11 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/BackTracking" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/BitOperation" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/DP" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/LinkedList" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/Search&amp;Sort" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/Stack" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/divide_conquer" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/graph" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/greedyMethod" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/misc" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/search" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/tree" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>

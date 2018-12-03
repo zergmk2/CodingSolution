@@ -1,3 +1,5 @@
+package codetest.LeetCode.search;
+
 /*
  * [278] First Bad Version
  *
@@ -35,8 +37,16 @@
  */
 /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
+class VersionControl
+{
+    boolean isBadVersion(int n)
+    {
+        return true;
+    }
 
-public class Solution extends VersionControl {
+}
+
+class firstBadVersion extends VersionControl {
     public int firstBadVersion(int n) {
         if (n == 0 || n == 1)
         {
@@ -77,6 +87,4 @@ public class Solution extends VersionControl {
 
         return start;
     }
-
-
 }

@@ -1,4 +1,4 @@
-/*
+package codetest.LeetCode.LinkedList;/*
  * [234] Palindrome Linked List
  *
  * https://leetcode.com/problems/palindrome-linked-list/description/
@@ -27,6 +27,9 @@
  * Could you do it in O(n) time and O(1) space?
  * 
  */
+
+import codetest.DataStructure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -38,7 +41,7 @@
 
 
 // Input: 1->2->3->4->4->3->2->1
-class Solution {
+public class IsPalindrome_234 {
     public boolean isPalindrome(ListNode head) {
         if (head == null)
         {

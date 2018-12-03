@@ -72,8 +72,11 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-import java.util.*;
-class Solution {
+package codetest.LeetCode.LinkedList;
+import codetest.DataStructure.ListNode;
+
+
+public class SplitListToParts_725 {
     public ListNode[] splitListToParts(ListNode root, int k) {
         if (k == 0)
         {
