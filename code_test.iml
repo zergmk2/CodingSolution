@@ -13,13 +13,19 @@
       <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/GeeksForGeeks" />
       <excludeFolder url="file://$MODULE_DIR$/codeTest/src/main/java/passCode" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/CTCI" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/BFS_DFS" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/BackTracking" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/BitOperation" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/DP" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/LinkedList" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/Search&amp;Sort" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/Stack" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/divide_conquer" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/graph" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/greedyMethod" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/misc" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/search" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/LeetCode/tree" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/codetest/interview_test" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

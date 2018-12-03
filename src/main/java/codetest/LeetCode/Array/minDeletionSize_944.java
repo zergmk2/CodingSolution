@@ -1,4 +1,4 @@
-//944. Delete Columns to Make Sorted
+package codetest.LeetCode.Array;//944. Delete Columns to Make Sorted
 //We are given an array A of N lowercase letter strings, all of the same length.
 
 //Now, we may choose any set of deletion indices, and for each string, we delete all the characters in those indices.
@@ -31,7 +31,7 @@
 
 //1 <= A.length <= 100
 //1 <= A[i].length <= 1000
-class Solution {
+public class minDeletionSize_944 {
     public int minDeletionSize(String[] A) {
         if (A == null || A.length == 0 || A[0].length() == 0)
         {

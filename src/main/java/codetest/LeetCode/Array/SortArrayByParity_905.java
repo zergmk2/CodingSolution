@@ -1,3 +1,5 @@
+package codetest.LeetCode.Array;
+
 /*
  * [941] Sort Array By Parity
  *
@@ -36,7 +38,7 @@
  * 
  * 
  */
-class Solution {
+public class SortArrayByParity_905 {
     public int[] sortArrayByParity(int[] A) {
         if (A == null || A.length <= 1)
         {

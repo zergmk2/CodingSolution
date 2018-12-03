@@ -1,3 +1,4 @@
+package codetest.LeetCode.Array;
 /*
  * [1] Two Sum
  *
@@ -29,7 +30,7 @@
  */
 
 import java.util.*;
-class Solution {
+public class TwoSum_1 {
     public int[] twoSum(int[] nums, int target) {
         if (nums == null || nums.length == 0)
         {
@@ -42,10 +43,7 @@ class Solution {
             int left = target - nums[i];
             if (map.containsKey(nums[i]))
             {
-                int[] ret = new int[2];
-                ret[0] = i;
-                ret[1] = map.get(nums[i]);
-                return ret;
+                return new int[] {i, map.get(nums[i])};
             }
             else
             {

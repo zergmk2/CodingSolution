@@ -30,8 +30,9 @@
  * 
  */
 
+package codetest.LeetCode.Array;
 import java.util.*;
-class Solution {
+public class MajorityElement_169 {
     public int majorityElement(int[] nums) {
         if (nums == null || nums.length == 0)
         {

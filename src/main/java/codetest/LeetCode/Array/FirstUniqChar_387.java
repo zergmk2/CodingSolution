@@ -27,9 +27,10 @@
  * Note: You may assume the string contain only lowercase letters.
  * 
  */
+package codetest.LeetCode.Array;
 import java.util.*;
 
-class Solution {
+public class FirstUniqChar_387 {
     public int firstUniqChar(String s) {
         if (s == null || s.length() == 0)
         {

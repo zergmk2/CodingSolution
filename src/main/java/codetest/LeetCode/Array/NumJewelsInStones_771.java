@@ -1,3 +1,5 @@
+package codetest.LeetCode.Array;
+
 /*
  * [782] Jewels and Stones
  *
@@ -40,7 +42,7 @@
  * 
  * 
  */
-class Solution {
+public class NumJewelsInStones_771 {
     public int numJewelsInStones(String J, String S) {
         if (J == null || J.length() == 0 || S == null || S.length() == 0)
         {

@@ -1,3 +1,5 @@
+package codetest.LeetCode.Array;
+
 /*
  * [242] Valid Anagram
  *
@@ -34,7 +36,7 @@
  * solution to such case?
  * 
  */
-class Solution {
+public class IsAnagram_242 {
     public boolean isAnagram(String s, String t) {
         if (s.length() == 0 && t.length() == 0)
         {
@@ -66,6 +68,5 @@ class Solution {
         }
 
         return true;
-
     }
 }

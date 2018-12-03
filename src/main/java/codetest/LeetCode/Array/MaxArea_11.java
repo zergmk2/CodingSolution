@@ -1,3 +1,5 @@
+package codetest.LeetCode.Array;
+
 /*
  * [11] Container With Most Water
  *
@@ -34,7 +36,7 @@
  * Output: 49
  * 
  */
-class Solution {
+public class MaxArea_11 {
     public int maxArea(int[] height) {
         if (height == null || height.length == 0)
         {

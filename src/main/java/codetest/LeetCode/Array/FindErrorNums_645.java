@@ -37,9 +37,11 @@
  * 
  * 
  */
+package codetest.LeetCode.Array;
+
 import java.util.*;
 
-class Solution {
+public class FindErrorNums_645 {
     public int[] findErrorNums(int[] nums) {
         if (nums == null || nums.length == 0)
         {

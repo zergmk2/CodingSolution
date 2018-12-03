@@ -1,3 +1,5 @@
+package codetest.LeetCode.Array;
+
 //942. DI String Match
 //Given a string S that only contains "I" (increase) or "D" (decrease), let N = S.length.
 
@@ -26,7 +28,7 @@
 //1 <= S.length <= 10000
 //S only contains characters "I" or "D".
 
-class Solution {
+public class DiStringMatch_942 {
     public int[] diStringMatch(String S) {
         if (S.length() == 0)
         {

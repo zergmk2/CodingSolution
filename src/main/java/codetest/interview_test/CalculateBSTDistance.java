@@ -1,6 +1,8 @@
+package codetest.interview_test;
+
 import java.util.*;
 
-public class Solution {
+public class CalculateBSTDistance {
     public class TreeNode {
         public int val;
         public TreeNode left;
@@ -166,11 +168,11 @@ public class Solution {
 
 
 
-    public static void main(String[] args)
-    {
-        int[] values = new int[] {5, 6, 3, 1, 2, 4};
-        int [] values1 = new int[]{};
-        Solution s = new Solution();
-        int a = s.bstDistance(values, 6, 1, 2);
-    }
+//    public static void main(String[] args)
+//    {
+//        int[] values = new int[] {5, 6, 3, 1, 2, 4};
+//        int [] values1 = new int[]{};
+//        Solution s = new Solution();
+//        int a = s.bstDistance(values, 6, 1, 2);
+//    }
 }

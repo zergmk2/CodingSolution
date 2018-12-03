@@ -1,4 +1,4 @@
-/*
+package codetest.LeetCode.Array;/*
  * [119] Pascal's Triangle II
  *
  * https://leetcode.com/problems/pascals-triangle-ii/description/
@@ -30,7 +30,10 @@
  * Could you optimize your algorithm to use only O(k) extra space?
  * 
  */
-class Solution {
+
+import java.util.*;
+
+public class PascalsTriangle2_119 {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> ret = new ArrayList<>(rowIndex + 1);
         if (rowIndex == 0)

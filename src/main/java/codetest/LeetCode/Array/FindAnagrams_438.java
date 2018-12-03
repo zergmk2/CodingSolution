@@ -47,9 +47,9 @@
  * 
  * 
  */
-
- import java.util.*;
-class Solution {
+package codetest.LeetCode.Array;
+import java.util.*;
+public class FindAnagrams_438 {
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> list = new ArrayList<>();
         if (s == null || p == null || s.length() == 0 || p.length() == 0 || s.length() < p.length())
@@ -80,6 +80,7 @@ class Solution {
             charlist[a.charAt(i) - 'a']++;
             charlist[b.charAt(i) - 'a']--;
         }
+
         for (int i = 0; i < 26; i++)
         {
             if (charlist[i] != 0)
