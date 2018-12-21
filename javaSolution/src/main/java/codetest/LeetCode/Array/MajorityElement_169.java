@@ -61,6 +61,11 @@ public class MajorityElement_169 {
                 maxValue = map.get(key);
             }
         }
+        for(Map.Entry<Integer, Integer> entry : map.entrySet())
+        {
+            entry.getKey();
+            entry.getValue();
+        }
         return index;
     }
 }

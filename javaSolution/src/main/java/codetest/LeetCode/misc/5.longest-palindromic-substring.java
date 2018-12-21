@@ -1,5 +1,3 @@
-package passCode;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -34,7 +32,7 @@ import java.io.InputStreamReader;
  * 
  * 
  */
-class Solution {
+public class LongestPalindrome_5 {
     private int maximumLength = 0;
     private int left = 0, right = 0;
 
@@ -63,10 +61,6 @@ class Solution {
             findmaximumPalindrome(s, i, i);
             findmaximumPalindrome(s, i, i + 1);
         }
-
-//         System.out.println("maximumLength :" + maximumLength);
-//         System.out.println("left :" + left);
-//         System.out.println("right :" + right);
         if (maximumLength == 0)
             return s.substring(0, 1);
         else
@@ -75,14 +69,8 @@ class Solution {
 
     public void findmaximumPalindrome(String s, int leftIndex, int rightIndex) {
         int cnt = 0;
-        // System.out.println("=========================");
-        // System.out.println("s :" + s);
-        // System.out.println("leftIndex :" + leftIndex);
-        // System.out.println("rightIndex :" + rightIndex);
         while (leftIndex >= 0 && rightIndex <= (s.length() - 1)) {
             if (s.charAt(leftIndex) == s.charAt(rightIndex)) {
-                // System.out.println("s.charAt(leftIndex) :" + s.charAt(leftIndex));
-                // System.out.println("s.charAt(rightIndex) :" + s.charAt(rightIndex));
                 if (leftIndex != rightIndex)
                 {
                     cnt++;
@@ -93,7 +81,6 @@ class Solution {
                 break;
             }
         }
-        // System.out.println("cnt :" + cnt);
         leftIndex++;
         rightIndex--;
         int length = rightIndex - leftIndex + 1;
@@ -104,12 +91,6 @@ class Solution {
         }
 
     }
-
-//     public static void main(String[] args) throws IOException {
-
-//             String ret = new passCode.Solution().longestPalindrome("aa");
-//             System.out.println("answer :" + ret);
-//     }
 }
 
 
