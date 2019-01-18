@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using csharpSolution;
 using System;
 using System.Collections.Generic;
@@ -14,7 +14,6 @@ namespace csharpSolution.Tests
         [TestMethod()]
         public void serializeTest()
         {
-            // Arrange
             var unitUnderTest = new SerializeAndDeserializeBst();
             TreeNode root = new TreeNode(3);
             root.left = new TreeNode(1);

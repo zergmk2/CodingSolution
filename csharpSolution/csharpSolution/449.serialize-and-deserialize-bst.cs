@@ -32,6 +32,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 /**
 * Definition for a binary tree node.
@@ -56,14 +57,75 @@ namespace csharpSolution
             }
 
             List<string> valList = new List<string>(100);
-            Build_BST_Str(root, valList, 0);
-            return string.Join(",", valList);
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.Append(root.val + ",");
+            Build_BST_Str(root, stringBuilder);
+            return stringBuilder.ToString();
+        }
+
+        private void Build_BST_Str(TreeNode root, StringBuilder stringBuilder)
+        {
+            Queue<TreeNode> queue = new Queue<TreeNode>();
+            queue.Enqueue(root);
+            TreeNode nullNode = new TreeNode(0);
+            while (queue.Count > 0)
+            {
+                int levelNodeCnt = queue.Count;
+
+                bool hasValidNode = false;
+                for (int i = 0; i < levelNodeCnt; i++)
+                {
+
+                    TreeNode node = queue.Dequeue();
+
+                    if (node == nullNode)
+                    {
+                        stringBuilder.Append("N,N,");
+                        queue.Enqueue(nullNode);
+                        queue.Enqueue(nullNode);
+                    }
+                    else
+                    {
+                        if (node.left != null)
+                        {
+                            stringBuilder.Append(node.left.val + ",");
+                            queue.Enqueue(node.left);
+                            hasValidNode = true;
+
+                        }
+                        else
+                        {
+                            stringBuilder.Append("N,");
+                            queue.Enqueue(nullNode);
+                        }
+
+                        if (node.right != null)
+                        {
+                            stringBuilder.Append(node.right.val + ",");
+                            queue.Enqueue(node.right);
+                            hasValidNode = true;
+
+                        }
+                        else
+                        {
+                            stringBuilder.Append("N,");
+                            queue.Enqueue(nullNode);
+                        }
+
+                    }
+                }
+
+                if (!hasValidNode)
+                {
+                    break;
+                }
+            }
         }
 
         private void Build_BST_Str(TreeNode root, List<string> valList, int v)
         {
             while (valList.Count < v)
-                valList.Add("NULL");
+                valList.Add("N");
 
             if (v < valList.Count)
                 valList[v] = root.val.ToString();
@@ -102,7 +164,7 @@ namespace csharpSolution
                 return null;
             }
 
-            if (valList[v].Equals("NULL", StringComparison.CurrentCultureIgnoreCase))
+            if (valList[v].Equals("N", StringComparison.CurrentCultureIgnoreCase))
                 return null;
 
             int val = int.Parse(valList[v]);

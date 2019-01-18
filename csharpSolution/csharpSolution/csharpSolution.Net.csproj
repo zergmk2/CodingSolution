@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -42,8 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="449.serialize-and-deserialize-bst.cs" />
+    <Compile Include="Algorithum\HeapSort.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="DataStructure\TreeNode.cs" />
+    <Compile Include="DataStructure\Trie.cs" />
+    <Compile Include="DataStructure\TrieNode.cs" />
+    <Compile Include="LeetCode\BackTracking\CombinationSum2_40.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
